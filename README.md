@@ -5,8 +5,6 @@ This repository contains the reproducibility materials for the article:
 > **Sentiment Monitoring in Spanish Media via Multi-Model Econometric Design: Emotional Signals, Inflation Dynamics, and Structural Breaks (2017-2023)**
 >
 > Zamora Canovas, Jorge Jose; Martinez Maria-Dolores, Soledad Maria
->
-> *IEEE Access* (submitted)
 
 ## Overview
 
