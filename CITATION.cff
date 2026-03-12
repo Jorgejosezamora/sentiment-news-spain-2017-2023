@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Sentiment Monitoring in Spanish Media via Multi-Model Econometric Design (2017-2023)"
+authors:
+  - family-names: "Zamora Canovas"
+    given-names: "Jorge Jose"
+    email: "jjzamora.canovas@gmail.com"
+    affiliation: "Polytechnic University of Cartagena"
+  - family-names: "Martinez Maria-Dolores"
+    given-names: "Soledad Maria"
+    affiliation: "Polytechnic University of Cartagena"
+version: "1.0.0"
+date-released: "2025-03-12"
+license: MIT
+repository-code: "https://github.com/Jorgejosezamora/sentiment-news-spain-2017-2023"
+keywords:
+  - sentiment analysis
+  - emotion classification
+  - ARIMAX
+  - VAR
+  - Granger causality
+  - Spanish media
+  - CPI
+  - structural breaks
+  - RoBERTa-BNE
+  - COVID-19

@@ -1,0 +1,24 @@
+variable,adf_statistic,p_value,lags_used,nobs,critical_1pct,critical_5pct,critical_10pct,stationary
+IPC_ECOICOP Indice General (Global),-0.3569,0.917,6,77,-3.5183,-2.8999,-2.5872,False
+IPC_ECOICOP Índice General,-0.3569,0.917,6,77,-3.5183,-2.8999,-2.5872,False
+ECOICOP_Alimentos y bebidas no alcohólicas,0.8054,0.9917,4,79,-3.516,-2.8989,-2.5867,False
+ECOICOP_Bebidas alcohólicas y tabaco,-0.0263,0.9563,1,82,-3.5127,-2.8975,-2.5859,False
+ECOICOP_Vestido y calzado,1.7487,0.9982,12,71,-3.526,-2.9032,-2.589,False
+"ECOICOP_Vivienda, agua, electricidad, gas y otros combustibles",-2.1228,0.2354,6,77,-3.5183,-2.8999,-2.5872,False
+"ECOICOP_Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar",-1.7827,0.3891,12,71,-3.526,-2.9032,-2.589,False
+ECOICOP_Sanidad,2.8805,1.0,3,80,-3.5149,-2.8984,-2.5864,False
+ECOICOP_Transporte,-0.8784,0.795,0,83,-3.5117,-2.897,-2.5857,False
+ECOICOP_Comunicaciones,-1.7234,0.4191,0,83,-3.5117,-2.897,-2.5857,False
+ECOICOP_Ocio y cultura,0.6727,0.9893,12,71,-3.526,-2.9032,-2.589,False
+ECOICOP_Enseñanza,1.3894,0.9971,2,81,-3.5138,-2.8979,-2.5862,False
+ECOICOP_Restaurantes y hoteles,2.4299,0.999,5,78,-3.5171,-2.8994,-2.587,False
+ECOICOP_Otros bienes y servicios,-0.3672,0.9154,12,71,-3.526,-2.9032,-2.589,False
+ICM,-3.942,0.0017,12,71,-3.526,-2.9032,-2.589,True
+ICC,-2.2651,0.1835,0,79,-3.516,-2.8989,-2.5867,False
+IPI,-2.5944,0.0942,12,71,-3.526,-2.9032,-2.589,False
+economia -> IPC_ECOICOP Índice General,-0.3569,0.917,6,77,-3.5183,-2.8999,-2.5872,False
+politica -> ICC,-2.2651,0.1835,0,79,-3.516,-2.8989,-2.5867,False
+sociedad -> ICC,-2.2651,0.1835,0,79,-3.516,-2.8989,-2.5867,False
+deporte -> ECOICOP_Ocio y cultura,0.6727,0.9893,12,71,-3.526,-2.9032,-2.589,False
+cultura -> ECOICOP_Ocio y cultura,0.6727,0.9893,12,71,-3.526,-2.9032,-2.589,False
+"medioambiente -> ECOICOP_Vivienda, agua, electricidad, gas y otros combustibles",-2.1228,0.2354,6,77,-3.5183,-2.8999,-2.5872,False

@@ -1,0 +1,116 @@
+{
+  "chow_tests": {
+    "COVID (mar-2020)": {
+      "f_stat": 11.7878,
+      "p_value": 0.0,
+      "n1": 38,
+      "n2": 46,
+      "rss_full": 3030.3264,
+      "rss_pre": 44.4532,
+      "rss_post": 1642.3679,
+      "significant": true
+    },
+    "Ucrania (feb-2022)": {
+      "f_stat": 113.9637,
+      "p_value": 0.0,
+      "n1": 61,
+      "n2": 23,
+      "rss_full": 3030.3264,
+      "rss_pre": 257.8352,
+      "rss_post": 90.4682,
+      "significant": true
+    }
+  },
+  "bai_perron": [
+    {
+      "break_date": "2021-12-01 00:00:00",
+      "f_stat": 126.1829,
+      "p_value": 0.0
+    }
+  ],
+  "ks_mw_tests": [
+    {
+      "variable": "Ira",
+      "mean_pre": 0.0293,
+      "mean_post": 0.0309,
+      "std_pre": 0.0039,
+      "std_post": 0.0031,
+      "diff_pct": 5.35,
+      "ks_stat": 0.3181,
+      "ks_pvalue": 0.0222,
+      "ks_significant": true,
+      "mw_stat": 660.0,
+      "mw_pvalue": 0.055,
+      "mw_significant": false
+    },
+    {
+      "variable": "Miedo",
+      "mean_pre": 0.0132,
+      "mean_post": 0.0142,
+      "std_pre": 0.0019,
+      "std_post": 0.0021,
+      "diff_pct": 7.29,
+      "ks_stat": 0.2746,
+      "ks_pvalue": 0.0685,
+      "ks_significant": false,
+      "mw_stat": 626.0,
+      "mw_pvalue": 0.0261,
+      "mw_significant": true
+    },
+    {
+      "variable": "Tristeza",
+      "mean_pre": 0.0267,
+      "mean_post": 0.0259,
+      "std_pre": 0.0041,
+      "std_post": 0.0043,
+      "diff_pct": -3.02,
+      "ks_stat": 0.1785,
+      "ks_pvalue": 0.4529,
+      "ks_significant": false,
+      "mw_stat": 1002.0,
+      "mw_pvalue": 0.2519,
+      "mw_significant": false
+    },
+    {
+      "variable": "Alegria",
+      "mean_pre": 0.0232,
+      "mean_post": 0.0204,
+      "std_pre": 0.0035,
+      "std_post": 0.0028,
+      "diff_pct": -11.79,
+      "ks_stat": 0.4199,
+      "ks_pvalue": 0.0008,
+      "ks_significant": true,
+      "mw_stat": 1260.0,
+      "mw_pvalue": 0.0005,
+      "mw_significant": true
+    },
+    {
+      "variable": "IPC_ECOICOP Índice General",
+      "mean_pre": 96.3719,
+      "mean_post": 104.7208,
+      "std_pre": 1.2058,
+      "std_post": 6.3751,
+      "diff_pct": 8.66,
+      "ks_stat": 0.7174,
+      "ks_pvalue": 0.0,
+      "ks_significant": true,
+      "mw_stat": 172.0,
+      "mw_pvalue": 0.0,
+      "mw_significant": true
+    }
+  ],
+  "arimax_comparison": {},
+  "periods": {
+    "pre_covid": {
+      "start": "2017-01-01 00:00:00",
+      "end": "2020-02-01 00:00:00",
+      "n": 38
+    },
+    "post_covid": {
+      "start": "2020-03-01 00:00:00",
+      "end": "2023-12-01 00:00:00",
+      "n": 46
+    }
+  }
+}

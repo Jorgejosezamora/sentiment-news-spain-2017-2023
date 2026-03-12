@@ -1,0 +1,256 @@
+{
+  "var_order": "6",
+  "aic_lag": 6,
+  "bic_lag": 0,
+  "n_obs": 83,
+  "variables": [
+    "IPC_ECOICOP Índice General",
+    "Ira",
+    "Miedo",
+    "Tristeza",
+    "Alegria"
+  ],
+  "differenced": true,
+  "differenced_vars": [
+    "IPC_ECOICOP Índice General",
+    "Alegria"
+  ],
+  "significant_granger_pairs": [
+    {
+      "cause": "IPC_ECOICOP Índice General",
+      "effect": "Miedo",
+      "lag": 2,
+      "p": 0.043
+    },
+    {
+      "cause": "IPC_ECOICOP Índice General",
+      "effect": "Miedo",
+      "lag": 6,
+      "p": 0.0333
+    },
+    {
+      "cause": "IPC_ECOICOP Índice General",
+      "effect": "Tristeza",
+      "lag": 2,
+      "p": 0.0114
+    },
+    {
+      "cause": "IPC_ECOICOP Índice General",
+      "effect": "Tristeza",
+      "lag": 4,
+      "p": 0.01
+    },
+    {
+      "cause": "IPC_ECOICOP Índice General",
+      "effect": "Tristeza",
+      "lag": 5,
+      "p": 0.0412
+    },
+    {
+      "cause": "IPC_ECOICOP Índice General",
+      "effect": "Tristeza",
+      "lag": 6,
+      "p": 0.042
+    },
+    {
+      "cause": "IPC_ECOICOP Índice General",
+      "effect": "Alegria",
+      "lag": 1,
+      "p": 0.0273
+    },
+    {
+      "cause": "IPC_ECOICOP Índice General",
+      "effect": "Alegria",
+      "lag": 2,
+      "p": 0.0112
+    },
+    {
+      "cause": "IPC_ECOICOP Índice General",
+      "effect": "Alegria",
+      "lag": 3,
+      "p": 0.0206
+    },
+    {
+      "cause": "Ira",
+      "effect": "IPC_ECOICOP Índice General",
+      "lag": 1,
+      "p": 0.0226
+    },
+    {
+      "cause": "Ira",
+      "effect": "IPC_ECOICOP Índice General",
+      "lag": 2,
+      "p": 0.0499
+    },
+    {
+      "cause": "Ira",
+      "effect": "Tristeza",
+      "lag": 6,
+      "p": 0.023
+    },
+    {
+      "cause": "Ira",
+      "effect": "Alegria",
+      "lag": 2,
+      "p": 0.0145
+    },
+    {
+      "cause": "Ira",
+      "effect": "Alegria",
+      "lag": 3,
+      "p": 0.0472
+    },
+    {
+      "cause": "Miedo",
+      "effect": "IPC_ECOICOP Índice General",
+      "lag": 6,
+      "p": 0.0083
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Ira",
+      "lag": 2,
+      "p": 0.0229
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Ira",
+      "lag": 3,
+      "p": 0.0074
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Ira",
+      "lag": 4,
+      "p": 0.0193
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Ira",
+      "lag": 5,
+      "p": 0.0158
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Ira",
+      "lag": 6,
+      "p": 0.0248
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Tristeza",
+      "lag": 3,
+      "p": 0.0047
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Tristeza",
+      "lag": 4,
+      "p": 0.0085
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Tristeza",
+      "lag": 5,
+      "p": 0.0082
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Tristeza",
+      "lag": 6,
+      "p": 0.0093
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Alegria",
+      "lag": 3,
+      "p": 0.0162
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Alegria",
+      "lag": 5,
+      "p": 0.0208
+    },
+    {
+      "cause": "Miedo",
+      "effect": "Alegria",
+      "lag": 6,
+      "p": 0.0294
+    },
+    {
+      "cause": "Tristeza",
+      "effect": "IPC_ECOICOP Índice General",
+      "lag": 1,
+      "p": 0.0114
+    },
+    {
+      "cause": "Tristeza",
+      "effect": "IPC_ECOICOP Índice General",
+      "lag": 2,
+      "p": 0.0198
+    },
+    {
+      "cause": "Tristeza",
+      "effect": "IPC_ECOICOP Índice General",
+      "lag": 3,
+      "p": 0.0354
+    },
+    {
+      "cause": "Tristeza",
+      "effect": "IPC_ECOICOP Índice General",
+      "lag": 5,
+      "p": 0.0368
+    },
+    {
+      "cause": "Tristeza",
+      "effect": "IPC_ECOICOP Índice General",
+      "lag": 6,
+      "p": 0.0414
+    },
+    {
+      "cause": "Alegria",
+      "effect": "IPC_ECOICOP Índice General",
+      "lag": 3,
+      "p": 0.0298
+    },
+    {
+      "cause": "Alegria",
+      "effect": "IPC_ECOICOP Índice General",
+      "lag": 4,
+      "p": 0.014
+    },
+    {
+      "cause": "Alegria",
+      "effect": "IPC_ECOICOP Índice General",
+      "lag": 5,
+      "p": 0.0448
+    },
+    {
+      "cause": "Alegria",
+      "effect": "Ira",
+      "lag": 3,
+      "p": 0.0232
+    },
+    {
+      "cause": "Alegria",
+      "effect": "Ira",
+      "lag": 4,
+      "p": 0.0099
+    },
+    {
+      "cause": "Alegria",
+      "effect": "Ira",
+      "lag": 5,
+      "p": 0.0248
+    }
+  ],
+  "portmanteau_pvalue": 0.03272780857396368,
+  "fevd_ipc_horizon12": {
+    "IPC_ECOICOP Índice General": 0.0217,
+    "Ira": 0.0071,
+    "Miedo": 0.0006,
+    "Tristeza": 0.0059,
+    "Alegria": 0.9647
+  }
+}

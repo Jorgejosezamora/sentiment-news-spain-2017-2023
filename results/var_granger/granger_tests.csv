@@ -1,0 +1,121 @@
+﻿cause,effect,lag,f_stat,f_pvalue,chi2_stat,chi2_pvalue,significant_5pct
+IPC_ECOICOP Índice General,Ira,1,0.049,0.8255,0.0508,0.8216,False
+IPC_ECOICOP Índice General,Ira,2,2.372,0.1002,5.0562,0.0798,False
+IPC_ECOICOP Índice General,Ira,3,1.5523,0.2083,5.1035,0.1644,False
+IPC_ECOICOP Índice General,Ira,4,0.9171,0.459,4.1401,0.3874,False
+IPC_ECOICOP Índice General,Ira,5,0.6963,0.6281,4.0531,0.5418,False
+IPC_ECOICOP Índice General,Ira,6,0.5935,0.7343,4.2846,0.6382,False
+IPC_ECOICOP Índice General,Miedo,1,0.0314,0.8598,0.0326,0.8567,False
+IPC_ECOICOP Índice General,Miedo,2,3.2794,0.043,6.9904,0.0303,True
+IPC_ECOICOP Índice General,Miedo,3,2.2385,0.0909,7.3596,0.0613,False
+IPC_ECOICOP Índice General,Miedo,4,1.5193,0.206,6.8585,0.1436,False
+IPC_ECOICOP Índice General,Miedo,5,1.3204,0.2662,7.6857,0.1744,False
+IPC_ECOICOP Índice General,Miedo,6,2.4615,0.0333,17.7692,0.0068,True
+IPC_ECOICOP Índice General,Tristeza,1,0.3082,0.5804,0.3199,0.5717,False
+IPC_ECOICOP Índice General,Tristeza,2,4.7467,0.0114,10.1179,0.0064,True
+IPC_ECOICOP Índice General,Tristeza,3,1.9955,0.1221,6.5606,0.0873,False
+IPC_ECOICOP Índice General,Tristeza,4,3.5982,0.01,16.2432,0.0027,True
+IPC_ECOICOP Índice General,Tristeza,5,2.4671,0.0412,14.361,0.0135,True
+IPC_ECOICOP Índice General,Tristeza,6,2.3374,0.042,16.8733,0.0098,True
+IPC_ECOICOP Índice General,Alegria,1,5.0592,0.0273,5.2513,0.0219,True
+IPC_ECOICOP Índice General,Alegria,2,4.7725,0.0112,10.173,0.0062,True
+IPC_ECOICOP Índice General,Alegria,3,3.4612,0.0206,11.3792,0.0098,True
+IPC_ECOICOP Índice General,Alegria,4,2.3801,0.0598,10.7443,0.0296,False
+IPC_ECOICOP Índice General,Alegria,5,1.3479,0.2552,7.8462,0.1649,False
+IPC_ECOICOP Índice General,Alegria,6,1.8604,0.1014,13.4301,0.0367,False
+Ira,IPC_ECOICOP Índice General,1,5.4106,0.0226,5.616,0.0178,True
+Ira,IPC_ECOICOP Índice General,2,3.1201,0.0499,6.6507,0.036,True
+Ira,IPC_ECOICOP Índice General,3,2.6483,0.0552,8.7068,0.0335,False
+Ira,IPC_ECOICOP Índice General,4,2.0014,0.1038,9.035,0.0602,False
+Ira,IPC_ECOICOP Índice General,5,2.0322,0.0852,11.8295,0.0372,False
+Ira,IPC_ECOICOP Índice General,6,1.5826,0.1667,11.4247,0.0761,False
+Ira,Miedo,1,0.744,0.391,0.7722,0.3795,False
+Ira,Miedo,2,0.346,0.7086,0.7375,0.6916,False
+Ira,Miedo,3,0.5413,0.6555,1.7798,0.6193,False
+Ira,Miedo,4,0.8594,0.4927,3.8796,0.4225,False
+Ira,Miedo,5,1.0623,0.3891,6.1836,0.2888,False
+Ira,Miedo,6,2.1736,0.057,15.6903,0.0155,False
+Ira,Tristeza,1,0.1063,0.7453,0.1103,0.7398,False
+Ira,Tristeza,2,2.0911,0.1306,4.4573,0.1077,False
+Ira,Tristeza,3,1.6562,0.1839,5.4451,0.142,False
+Ira,Tristeza,4,1.6811,0.1641,7.589,0.1078,False
+Ira,Tristeza,5,1.2775,0.284,7.4361,0.1902,False
+Ira,Tristeza,6,2.6565,0.023,19.1768,0.0039,True
+Ira,Alegria,1,1.2737,0.2625,1.322,0.2502,False
+Ira,Alegria,2,4.4811,0.0145,9.5519,0.0084,True
+Ira,Alegria,3,2.7782,0.0472,9.1338,0.0276,True
+Ira,Alegria,4,1.6802,0.1643,7.5848,0.108,False
+Ira,Alegria,5,0.7868,0.5629,4.5797,0.4693,False
+Ira,Alegria,6,0.6821,0.6646,4.9241,0.5536,False
+Miedo,IPC_ECOICOP Índice General,1,0.7328,0.3946,0.7606,0.3831,False
+Miedo,IPC_ECOICOP Índice General,2,0.7959,0.4549,1.6965,0.4282,False
+Miedo,IPC_ECOICOP Índice General,3,0.3183,0.8121,1.0465,0.79,False
+Miedo,IPC_ECOICOP Índice General,4,1.3559,0.2581,6.1211,0.1903,False
+Miedo,IPC_ECOICOP Índice General,5,0.8526,0.5176,4.9629,0.4204,False
+Miedo,IPC_ECOICOP Índice General,6,3.1991,0.0083,23.0937,0.0008,True
+Miedo,Ira,1,0.1892,0.6647,0.1964,0.6576,False
+Miedo,Ira,2,3.9717,0.0229,8.466,0.0145,True
+Miedo,Ira,3,4.3143,0.0074,14.1841,0.0027,True
+Miedo,Ira,4,3.1514,0.0193,14.2265,0.0066,True
+Miedo,Ira,5,3.0318,0.0158,17.6479,0.0034,True
+Miedo,Ira,6,2.6176,0.0248,18.8957,0.0043,True
+Miedo,Tristeza,1,0.0382,0.8455,0.0397,0.8421,False
+Miedo,Tristeza,2,2.8624,0.0633,6.1014,0.0473,False
+Miedo,Tristeza,3,4.692,0.0047,15.4256,0.0015,True
+Miedo,Tristeza,4,3.7141,0.0085,16.7665,0.0021,True
+Miedo,Tristeza,5,3.4212,0.0082,19.9143,0.0013,True
+Miedo,Tristeza,6,3.1337,0.0093,22.6217,0.0009,True
+Miedo,Alegria,1,2.7311,0.1024,2.8349,0.0922,False
+Miedo,Alegria,2,0.6153,0.5431,1.3116,0.519,False
+Miedo,Alegria,3,3.6597,0.0162,12.032,0.0073,True
+Miedo,Alegria,4,2.052,0.0964,9.2633,0.0548,False
+Miedo,Alegria,5,2.8725,0.0208,16.7203,0.0051,True
+Miedo,Alegria,6,2.5269,0.0294,18.2412,0.0057,True
+Tristeza,IPC_ECOICOP Índice General,1,6.7194,0.0114,6.9746,0.0083,True
+Tristeza,IPC_ECOICOP Índice General,2,4.1331,0.0198,8.81,0.0122,True
+Tristeza,IPC_ECOICOP Índice General,3,3.0147,0.0354,9.9112,0.0193,True
+Tristeza,IPC_ECOICOP Índice General,4,2.2229,0.0752,10.035,0.0398,False
+Tristeza,IPC_ECOICOP Índice General,5,2.5341,0.0368,14.7509,0.0115,True
+Tristeza,IPC_ECOICOP Índice General,6,2.3444,0.0414,16.9237,0.0096,True
+Tristeza,Ira,1,0.1125,0.7382,0.1167,0.7326,False
+Tristeza,Ira,2,0.0126,0.9875,0.0269,0.9866,False
+Tristeza,Ira,3,0.1839,0.907,0.6047,0.8953,False
+Tristeza,Ira,4,0.4264,0.7891,1.9249,0.7496,False
+Tristeza,Ira,5,0.3666,0.8697,2.1342,0.8303,False
+Tristeza,Ira,6,0.3907,0.8824,2.8203,0.831,False
+Tristeza,Miedo,1,0.5752,0.4505,0.5971,0.4397,False
+Tristeza,Miedo,2,0.3609,0.6982,0.7694,0.6807,False
+Tristeza,Miedo,3,1.3166,0.2756,4.3284,0.2281,False
+Tristeza,Miedo,4,0.5081,0.7299,2.2935,0.6819,False
+Tristeza,Miedo,5,1.1208,0.3579,6.5241,0.2585,False
+Tristeza,Miedo,6,1.692,0.1374,12.2138,0.0574,False
+Tristeza,Alegria,1,0.8234,0.3669,0.8547,0.3552,False
+Tristeza,Alegria,2,2.0298,0.1384,4.3266,0.1149,False
+Tristeza,Alegria,3,1.0937,0.3573,3.5958,0.3085,False
+Tristeza,Alegria,4,0.8376,0.5059,3.7813,0.4364,False
+Tristeza,Alegria,5,1.8644,0.1123,10.8526,0.0544,False
+Tristeza,Alegria,6,1.9603,0.0845,14.1511,0.028,False
+Alegria,IPC_ECOICOP Índice General,1,1.2273,0.2713,1.2739,0.259,False
+Alegria,IPC_ECOICOP Índice General,2,2.4798,0.0905,5.286,0.0711,False
+Alegria,IPC_ECOICOP Índice General,3,3.1555,0.0298,10.3744,0.0156,True
+Alegria,IPC_ECOICOP Índice General,4,3.3694,0.014,15.2102,0.0043,True
+Alegria,IPC_ECOICOP Índice General,5,2.4168,0.0448,14.0677,0.0152,True
+Alegria,IPC_ECOICOP Índice General,6,1.1626,0.3374,8.3924,0.2107,False
+Alegria,Ira,1,0.0163,0.8987,0.0169,0.8965,False
+Alegria,Ira,2,0.8185,0.4449,1.7448,0.4179,False
+Alegria,Ira,3,3.3626,0.0232,11.0551,0.0114,True
+Alegria,Ira,4,3.6089,0.0099,16.2915,0.0027,True
+Alegria,Ira,5,2.7662,0.0248,16.1017,0.0066,True
+Alegria,Ira,6,2.1911,0.0552,15.8171,0.0148,False
+Alegria,Miedo,1,2.8291,0.0965,2.9365,0.0866,False
+Alegria,Miedo,2,1.072,0.3475,2.285,0.319,False
+Alegria,Miedo,3,1.7515,0.164,5.7582,0.124,False
+Alegria,Miedo,4,0.3936,0.8126,1.7768,0.7767,False
+Alegria,Miedo,5,0.9379,0.4623,5.4597,0.3624,False
+Alegria,Miedo,6,2.0191,0.0759,14.5756,0.0238,False
+Alegria,Tristeza,1,0.8702,0.3537,0.9033,0.3419,False
+Alegria,Tristeza,2,0.2468,0.7819,0.5262,0.7687,False
+Alegria,Tristeza,3,0.0186,0.9965,0.0613,0.996,False
+Alegria,Tristeza,4,0.4994,0.7362,2.2547,0.689,False
+Alegria,Tristeza,5,0.3624,0.8724,2.1098,0.8338,False
+Alegria,Tristeza,6,0.4302,0.8562,3.1052,0.7955,False
